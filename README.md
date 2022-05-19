@@ -6,9 +6,9 @@ A site that allow users to give food to users in the local community. Built usin
 
 ## Table of Contents
 
--[Project Details](#project-details)<br>
--[Live Site](#live-site)<br>
--[60s Application Demo](#60s-application-demo)
+- [Project Details](#project-details)<br>
+- [Live Site](#live-site)<br>
+- [60s Application Demo](#60s-application-demo)
 
 ## Project Details:
 
