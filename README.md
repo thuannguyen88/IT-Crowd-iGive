@@ -2,13 +2,13 @@
 
 # iGive
 
-A site that allow users to give food to users in the local community. Built using NextJS and hosted on Netlify. It features user authentication and authorisation through authO, users can upload items to give away, edit and delete their listings. Users can reserve other users' listings and arrange pick up with email messaging. It also features ability to edit and delete users profile. You can visit the live site [here](https://igive.netlify.app/.)
+A site that allow users to give food to users in the local community. Built using NextJS and hosted on Netlify. It features user authentication and authorisation through authO, users can upload food items to give away, edit and delete their listings. Users can reserve other users' listings and arrange pick up with email messaging. It also features ability to edit and delete users profile. You can visit the live site [here](https://igive.netlify.app/.)
 
 ## Project details:
 
 For our School of Code final project, we created iGive, a community focused food giving app to help reduce food waste in the local community.
 
-Front end hosted here: https://igive.netlify.app/. This repo contains the code deployed to netlify.
+Front end hosted [here](https://igive.netlify.app/.) This repo contains the code deployed to netlify.
 
 This project was implemented using an agile process.
 
