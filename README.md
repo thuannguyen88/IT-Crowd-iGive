@@ -4,11 +4,15 @@
 
 A site that allow users to give food to users in the local community. Built using NextJS and hosted on Netlify. It features user authentication and authorisation through authO, users can upload food items to give away, edit and delete their listings. Users can reserve other users' listings and arrange pick up with email messaging. It also features ability to edit and delete users profile. You can visit the live site [here](https://igive.netlify.app/.)
 
-## Project details:
+## Table of Contents
+
+-[Project Details](#project-details)<br>
+-[Live Site](#live-site)<br>
+-[60s Application Demo](#60s-application-demo)
+
+## Project Details:
 
 For our School of Code final project, we created iGive, a community focused food giving app to help reduce food waste in the local community.
-
-Front end hosted [here](https://igive.netlify.app/.) This repo contains the code deployed to netlify.
 
 This project was implemented using an agile process.
 
@@ -26,6 +30,10 @@ For our databases we explored mongoDB but eventually landed on postgreSQL with h
 One of the main aspects of our app was how to simplify our image handling process, which led us to cloudinary, which we used for cloud based image storage and management.
 In terms of testing, we used jest and supertest to write unit and integration tests for our backend API. And for the front end we used cypress for end-to-end tests.
 For our planning and designing tools such as figma, canva, miro and trello were utilised. We also decided to use Auth0 for authentication.
+
+## Live Site
+
+Front end hosted [here](https://igive.netlify.app/.) This repo contains the code deployed to netlify.
 
 ## 60s Application Demo
 
