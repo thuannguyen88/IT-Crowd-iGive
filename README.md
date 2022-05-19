@@ -1,6 +1,8 @@
-# Front End for iGive App
+![iGive_cover](https://user-images.githubusercontent.com/91844917/169282318-c5205b1b-4c83-4930-a3a0-b6019ca63603.png)
 
-https://user-images.githubusercontent.com/91844917/169281341-3822c76f-9334-4849-a392-7a71bfc5a862.mp4
+# iGive
+
+A site that allow users to give food to users in the local community. Built using NextJS and hosted on Netlify. It features user authentication and authorisation through authO, users can upload items to give away, edit and delete their listings. Users can reserve other users' listings and arrange pick up with email messaging. It also features ability to edit and delete users profile. You can visit the live site [here](https://igive.netlify.app/.)
 
 ## Project details:
 
@@ -24,3 +26,7 @@ For our databases we explored mongoDB but eventually landed on postgreSQL with h
 One of the main aspects of our app was how to simplify our image handling process, which led us to cloudinary, which we used for cloud based image storage and management.
 In terms of testing, we used jest and supertest to write unit and integration tests for our backend API. And for the front end we used cypress for end-to-end tests.
 For our planning and designing tools such as figma, canva, miro and trello were utilised. We also decided to use Auth0 for authentication.
+
+## 60s Application Demo
+
+https://user-images.githubusercontent.com/91844917/169281341-3822c76f-9334-4849-a392-7a71bfc5a862.mp4
