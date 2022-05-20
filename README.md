@@ -2,39 +2,77 @@
 
 # iGive
 
-A site that allow users to give food to users in the local community. Built using NextJS and hosted on Netlify. It features user authentication and authorisation through authO, users can upload food items to give away, edit and delete their listings. Users can reserve other users' listings and arrange pick up with email messaging. It also features ability to edit and delete users profile. You can visit the live site [here](https://igive.netlify.app/.)
+A full stack application to combat food waste, that allows users to give unwanted food to others within the local community. Built using NextJS and hosted on Netlify. Users can upload food items to give away, reserve interest in other items and arrange pick up with other users. The app features user authentication and authorisation via authO. Every user that signs up gets their own unique profile, and all their listings and information can only be edited and deleted by them. You can visit the live site [here](https://igive.netlify.app/.)
 
 ## Table of Contents
 
-- [Project Details](#project-details)<br>
-- [Live Site](#live-site)<br>
 - [Brief Application Demo](#brief-application-demo)
-
-## Project Details:
-
-For our School of Code final project, we created iGive, a community focused food giving app to help reduce food waste in the local community.
-
-This project was implemented using an agile process.
-
-The Problem:
-**Situation:** As boot campers we we’re asked to design an app to solve a problem that we thought stood out for our final four week project.
-
-**Task:** Working in a team of 6, we used the Disney ideation approach on Miro to ideate all our ideas through the dreamer, realist and critic room. As a team, we all agreed with designing an application to reduce waste. This decision was partly based on all of our personal experiences and so we wanted to make a difference not only for ourselves but so many others in our community.
-
-**Action:** To have stronger evidence for our idea, we did some background research into food waste in the UK and found that food waste is one of the largest contributors to climate change. We also created some user stories for different types of users which allowed us to focus on the user’s needs throughout the project, and also designed wireframes using Figma to get a better vision of our app.
-
-**Result:** The solution that we created for our users was called iGive, which is a community sharing app allowing people to share their unwanted food items which could be useful elsewhere. iGive is a full stack web app built using many technologies and tools. We wanted to make sure we could achieve our MVP, so leveraged the tech learnt during our time at school of code.
-
-We wanted to leverage the tech we learned from the boot camp. So for this project, we decided to work with NEXT.JS.
-For our databases we explored mongoDB but eventually landed on postgreSQL with heroku because the data we wanted to store would benefit from a relational database.
-One of the main aspects of our app was how to simplify our image handling process, which led us to cloudinary, which we used for cloud based image storage and management.
-In terms of testing, we used jest and supertest to write unit and integration tests for our backend API. And for the front end we used cypress for end-to-end tests.
-For our planning and designing tools such as figma, canva, miro and trello were utilised. We also decided to use Auth0 for authentication.
-
-## Live Site
-
-Front end hosted [here](https://igive.netlify.app/.) This repo contains the code deployed to netlify.
+- [Project Details](#project-details)<br>
+    - [Team](#the-team)<br>
+    - [Task](#task)<br>
+    - [Understanding The Problem](#understanding-the-problem)
+    - [Ideation](#ideation)
+    - [Planning](#planning)
+    - [Tech: Tools](#tech-tools)
+    - [Timeline](#timeline)
+    - [Management](#management)
+    - [Future Vision](#future-vision)
+    - [Reflection](#reflection)
+- [Live Site](#live-site)
 
 ## Brief Application Demo
 
 https://user-images.githubusercontent.com/91844917/169281341-3822c76f-9334-4849-a392-7a71bfc5a862.mp4
+
+## Project Details:
+
+  ### The Team
+  The SoC assigned us a team of 6; Simren, Dima, Rory, Irfan, Lilly & myself.
+ <img width="867" alt="Screenshot 2022-05-20 at 13 02 26" src="https://user-images.githubusercontent.com/91844917/169524206-8a940837-f545-4334-add0-642bd58e6221.png">
+
+
+  ### Task
+  As boot campers we we’re asked to design an app to solve a problem that we thought stood out for our final four week project.
+ 
+  ### Understanding The Problem
+  Take time to understand who the user is and what their problem is
+  
+  <img width="868" alt="Screenshot 2022-05-20 at 13 04 13" src="https://user-images.githubusercontent.com/91844917/169524517-c20c2d49-6ee0-4b73-8d89-0e78dd5e0d72.png">
+  
+  ### Ideation
+  Discuss your initial thoughts and find the holes in your understanding
+  Loop through understanding the problem again before ideating with disney ideation
+ 
+  ### Planning
+  <img width="998" alt="Screenshot 2022-05-20 at 13 14 38" src="https://user-images.githubusercontent.com/91844917/169526219-bc06b7b1-9e79-4e8d-b338-dc764a81433c.png">
+  
+  ### Tech Tools
+  <img width="805" alt="Screenshot 2022-05-20 at 13 25 19" src="https://user-images.githubusercontent.com/91844917/169527700-8fe367e5-b02b-4d0a-9c85-dee596e78e89.png">
+
+  
+  ### Timeline
+  <img width="999" alt="Screenshot 2022-05-20 at 13 19 39" src="https://user-images.githubusercontent.com/91844917/169526888-2f270deb-e6e8-4c84-b5b1-4de02aac4a64.png">
+
+  ### Management
+  <img width="804" alt="Screenshot 2022-05-20 at 13 27 54" src="https://user-images.githubusercontent.com/91844917/169528023-327410b0-6051-4639-9328-5a5efe80716f.png">
+  
+  This project was implemented using an agile process.
+
+  ### Future Vision
+  
+  ### Reflection
+  - This project helped me experience what it's like to be part of a real=life engineering team building a real-world solution
+  - Sometimes things felt overwhelming and stressful with blockers - the team was always available to support, help and champion throughout
+  - The project revealed to me one of the reasons I wanted to work in tech is because of the challenges, supportive community, and ability to have fun in the process!
+  - It was useful to remind myself to keep perspective, I started coding in November 2021 and now able to work alongside fellow software developers to build a user centric full stack solution to a real world problem.
+  - Every day I felt I was learning so much
+  - Got a taste of what it's like to work in a high-performance tech team and had plenty fun in the process
+  - Coding is only part of making a great application, developing is a team sport
+  
+
+For our School of Code final project, we created iGive, a community focused food giving app to help reduce food waste in the local community.
+
+
+## Live Site
+
+Front end hosted [here](https://igive.netlify.app/.) This repo contains the code deployed to netlify.
