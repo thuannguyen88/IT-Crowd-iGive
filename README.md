@@ -8,7 +8,7 @@ A site that allow users to give food to users in the local community. Built usin
 
 - [Project Details](#project-details)<br>
 - [Live Site](#live-site)<br>
-- [60s Application Demo](#60s-application-demo)
+- [Brief Application Demo](#brief-application-demo)
 
 ## Project Details:
 
@@ -35,6 +35,6 @@ For our planning and designing tools such as figma, canva, miro and trello were 
 
 Front end hosted [here](https://igive.netlify.app/.) This repo contains the code deployed to netlify.
 
-## 60s Application Demo
+## Brief Application Demo
 
 https://user-images.githubusercontent.com/91844917/169281341-3822c76f-9334-4849-a392-7a71bfc5a862.mp4
