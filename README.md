@@ -68,10 +68,6 @@ https://user-images.githubusercontent.com/91844917/169281341-3822c76f-9334-4849-
   - Every day I felt I was learning so much
   - Got a taste of what it's like to work in a high-performance tech team and had plenty fun in the process
   - Coding is only part of making a great application, developing is a team sport
-  
-
-For our School of Code final project, we created iGive, a community focused food giving app to help reduce food waste in the local community.
-
 
 ## Live Site
 
