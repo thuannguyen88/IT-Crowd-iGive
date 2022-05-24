@@ -15,6 +15,7 @@ A full stack application to combat food waste, that allows users to give unwante
     - [Planning](#planning)
     - [Tech: Tools](#tech-tools)
     - [Timeline](#timeline)
+    - [Features](#features)
     - [Management](#management)
     - [Future Vision](#future-vision)
     - [Reflection](#reflection)
@@ -52,6 +53,8 @@ https://user-images.githubusercontent.com/91844917/169281341-3822c76f-9334-4849-
   
   ### Timeline
   <img width="999" alt="Screenshot 2022-05-20 at 13 19 39" src="https://user-images.githubusercontent.com/91844917/169526888-2f270deb-e6e8-4c84-b5b1-4de02aac4a64.png">
+  
+  ### Features
 
   ### Management
   <img width="804" alt="Screenshot 2022-05-20 at 13 27 54" src="https://user-images.githubusercontent.com/91844917/169528023-327410b0-6051-4639-9328-5a5efe80716f.png">
