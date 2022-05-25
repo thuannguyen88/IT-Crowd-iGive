@@ -35,16 +35,14 @@ https://user-images.githubusercontent.com/91844917/170293822-38805b69-b5ab-452c-
 
 
   ### Task
-  As boot campers we we’re asked to design an app to solve a problem that we thought stood out for our final four week project.
+  As boot campers we were asked to design an app to solve a problem that we thought stood out for our final four week project.
  
   ### Understanding The Problem
-  Take time to understand who the user is and what their problem is
+  Took time to understand who the users are and what their problem is
   
   <img width="868" alt="Screenshot 2022-05-20 at 13 04 13" src="https://user-images.githubusercontent.com/91844917/169524517-c20c2d49-6ee0-4b73-8d89-0e78dd5e0d72.png">
   
   ### Ideation
-  Discuss your initial thoughts and find the holes in your understanding
-  Loop through understanding the problem again before ideating with disney ideation
  
   ### Planning
   <img width="998" alt="Screenshot 2022-05-20 at 13 14 38" src="https://user-images.githubusercontent.com/91844917/169526219-bc06b7b1-9e79-4e8d-b338-dc764a81433c.png">
@@ -67,7 +65,7 @@ https://user-images.githubusercontent.com/91844917/170293822-38805b69-b5ab-452c-
   
   ### Reflection
   - This project helped me experience what it's like to be part of a real=life engineering team building a real-world solution
-  - Sometimes things felt overwhelming and stressful with blockers - the team was always available to support, help and champion throughout
+  - It's a great rewarding feeling figuring out challenging problems independently and part of a team
   - The project revealed to me one of the reasons I wanted to work in tech is because of the challenges, supportive community, and ability to have fun in the process!
   - It was useful to remind myself to keep perspective, I started coding in November 2021 and now able to work alongside fellow software developers to build a user centric full stack solution to a real world problem.
   - Every day I felt I was learning so much
