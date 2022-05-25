@@ -23,7 +23,9 @@ A full stack application to combat food waste, that allows users to give unwante
 
 ## Brief Application Demo
 
-https://user-images.githubusercontent.com/91844917/169281341-3822c76f-9334-4849-a392-7a71bfc5a862.mp4
+
+https://user-images.githubusercontent.com/91844917/170293822-38805b69-b5ab-452c-b44a-51833ab3f009.mp4
+
 
 ## Project Details:
 
