@@ -55,6 +55,16 @@ https://user-images.githubusercontent.com/91844917/170293822-38805b69-b5ab-452c-
   <img width="999" alt="Screenshot 2022-05-20 at 13 19 39" src="https://user-images.githubusercontent.com/91844917/169526888-2f270deb-e6e8-4c84-b5b1-4de02aac4a64.png">
   
   ### Features
+  - Authenticate and authorise users with auth0
+  - Users can have their own unique profile that they can edit and delete
+  - Users can post listings to the listings page that is viewable to everyone logged into the application
+  - Users can communicate with other users to register interest and reserve an item
+  - Listings can be edited and deleted 
+  - Toast notifications to alert users on success and failure of actions taken
+  - Landing page for guest visitors 
+  - Protected routes so users can only edit their listings and profile
+  - CSS loader for wait time
+  - Profile and listing images can be uploaded
 
   ### Management
   <img width="804" alt="Screenshot 2022-05-20 at 13 27 54" src="https://user-images.githubusercontent.com/91844917/169528023-327410b0-6051-4639-9328-5a5efe80716f.png">
