@@ -64,12 +64,8 @@ https://user-images.githubusercontent.com/91844917/170293822-38805b69-b5ab-452c-
   ### Future Vision
   
   ### Reflection
-  - Planning is cheap and code is expensive
-  - This project helped me experience what it's like to be part of a real=life engineering team building a real-world solution
-  - It's a great rewarding feeling figuring out challenging problems independently and part of a team
-  - The project revealed to me one of the reasons I wanted to work in tech is because of the challenges, supportive community, and ability to have fun in the process!
-  - It was useful to remind myself to keep perspective, I started coding in November 2021 and now able to work alongside fellow software developers to build a user centric full stack solution to a real world problem.
-  - Every day I felt I was learning so much
+  - Gave me experience what it's like to be part of a real-life engineering team building a real-world solution to a deadline and having fun in the process
+  - How important it is to talk with your team ahead of time to establish how the team will handle certain situations and hoe everyone works best 
   - Coding is only part of making a great application, developing is a team sport
 
 ## Live Site
