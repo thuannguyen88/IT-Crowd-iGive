@@ -62,10 +62,12 @@ https://user-images.githubusercontent.com/91844917/170293822-38805b69-b5ab-452c-
   This project was implemented using an agile process.
 
   ### Future Vision
+  - Add distancing between listings so users can tell how far an item they want to reserve is, which will allow for filtering and sorting listings by distance and help with building local communities so you can find items in your local area
   
   ### Reflection
   - Gave me experience what it's like to be part of a real-life engineering team building a real-world solution to a deadline and having fun in the process
-  - How important it is to talk with your team ahead of time to establish how the team will handle certain situations and hoe everyone works best 
+  - How important it is to talk with your team ahead of time to establish how the team will handle certain situations and how everyone works best 
+  - Break problems down
   - Coding is only part of making a great application, developing is a team sport
 
 ## Live Site
