@@ -12,7 +12,6 @@ A full stack application to combat food waste, that allows users to give unwante
     - [Task](#task)<br>
     - [Understanding The Problem](#understanding-the-problem)
     - [Ideation](#ideation)
-    - [Planning](#planning)
     - [Tech: Tools](#tech-tools)
     - [Timeline](#timeline)
     - [Features](#features)
@@ -35,17 +34,22 @@ https://user-images.githubusercontent.com/91844917/170293822-38805b69-b5ab-452c-
 
 
   ### Task
-  As boot campers we were asked to design an app to solve a problem that we thought stood out for our final four week project.
+  As boot campers we were asked to design an app to solve a problem that we thought stood out for our final four week project. AFter brainstorming and discussions we voted to come up with a solution to combat food waste in the UK.
  
   ### Understanding The Problem
-  Took time to understand who the users are and what their problem is
+  Took time to understand who the users are and what their problems are, we did research on the numbers for waste in the UK, created surveys for potential users to fill in.
   
   <img width="868" alt="Screenshot 2022-05-20 at 13 04 13" src="https://user-images.githubusercontent.com/91844917/169524517-c20c2d49-6ee0-4b73-8d89-0e78dd5e0d72.png">
   
   ### Ideation
+  After we had a clearer idea of the problems, we generated user stories 
+  
+   <img width="998" alt="Screenshot 2022-05-20 at 13 14 38" src="https://user-images.githubusercontent.com/91844917/169526219-bc06b7b1-9e79-4e8d-b338-dc764a81433c.png">
+   
+  With the user stories in central focus, we looked at what solutions were already out there which included oddbox, olio and too good to do, nextdoor. We used the disney ideation process and using Miro whiteboard to collaborate all at the same time. Made decisions collectively on ideas by adopting a points voting system, with everyone getting 6 points, with favorite idea getting 3 points, followed by 2 for 2nd, and 1 for 3rd favorite.
+  
+  The winning idea was to build a web application that allowed users to give away food that they weren't planning on using anymore, and allowed other users to reserve and pick up the listed items.
  
-  ### Planning
-  <img width="998" alt="Screenshot 2022-05-20 at 13 14 38" src="https://user-images.githubusercontent.com/91844917/169526219-bc06b7b1-9e79-4e8d-b338-dc764a81433c.png">
   
   ### Tech Tools
   <img width="805" alt="Screenshot 2022-05-20 at 13 25 19" src="https://user-images.githubusercontent.com/91844917/169527700-8fe367e5-b02b-4d0a-9c85-dee596e78e89.png">
@@ -69,7 +73,10 @@ https://user-images.githubusercontent.com/91844917/170293822-38805b69-b5ab-452c-
   ### Management
   <img width="804" alt="Screenshot 2022-05-20 at 13 27 54" src="https://user-images.githubusercontent.com/91844917/169528023-327410b0-6051-4639-9328-5a5efe80716f.png">
   
-  This project was implemented using an agile process.
+  - This project was implemented using an agile process.
+  - Daily standups and retros
+  - Developing new features on branches
+  - Used trello to plan sprints, prioritise and track tasks
 
   ### Future Vision
   - Add distancing between listings so users can tell how far an item they want to reserve is, which will allow for filtering and sorting listings by distance and help with building local communities so you can find items in your local area
